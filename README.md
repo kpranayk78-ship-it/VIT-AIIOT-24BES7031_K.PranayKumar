@@ -122,3 +122,6 @@ sketch.ino
 * Dashboard.png
 * SerialMonitor.png
 * README.md
+
+## **Demo Video Link**
+https://drive.google.com/file/d/1N5DZPckNNKTsOIwMnAcTlHribAsi7YBa/view?usp=sharing
